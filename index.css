@@ -1,0 +1,76 @@
+body {
+  background-color: lightblue;
+}
+
+.Head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+
+}
+
+.button {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+
+.Bubble1 {
+  Background-color:#0cc0df;
+  color:black;
+  font-size:15px;
+  padding:10px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+
+}
+
+.Bubble2 {
+  Background-color:#0cc0df;
+  color:black;
+  font-size:15px;
+  padding:10px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+
+}
+
+.Bubble3 {
+  Background-color:#0cc0df;
+  color:black;
+  font-size:15px;
+  padding:10px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+
+.Bubble4 {
+  Background-color:#0cc0df;
+  color:black;
+  font-size:15px;
+  padding:10px;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
+
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+  font-weight:900;
+}
+
+p3 {
+  color: navy;
+  margin-left: 20px;
+  font-weight:900;
+}
+
+p.thicker {
+  font-weight:900;
+}
