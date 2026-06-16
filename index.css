@@ -12,9 +12,10 @@ body {
 
 .button {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
   height: 100px;
+  width:;
 }
 
 .Bubble1 {
@@ -25,6 +26,22 @@ body {
   border:none;
   border-radius:5px;
   cursor:pointer;
+
+
+}
+
+
+
+.Top {
+  background-color:#00747a;
+  Padding top:10px;
+  Padding right:30px;
+  Padding left:50px;
+  Padding bottom:10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 50px;
 
 }
 
