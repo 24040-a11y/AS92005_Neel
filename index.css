@@ -19,6 +19,23 @@ body {
   z-index: 1;
 }
 
+.Bottom {
+  background-color:#00747a;
+  Padding-top:10px;
+  Padding-right:10000px;
+  Padding-left:10px;
+  Padding-bottom:25px;
+  display: flex;
+  flex-direction:row-reverse;
+  align-items: flex-start;
+  height: 30px;
+  position:absolute;
+  left:0px;
+  bottom:0;
+  z-index: 1;
+}
+
+
 .button {
   margin-left:50px;
   display: flex;
@@ -59,22 +76,69 @@ h1 {
   border-radius:60px;
 }
 
-.Points {
-  margin:500px;
-  font-size:40px;
-  display:flex;
-  flex-direction:column;
-  align-items:space-between;
 
 
 
 .Bubble1 {
-  Background-color:#0cc0df;
+  position:absolute;
+  left:500px;
+  bottom:500px;
+  Background-color:#00747a;
   color:white;
-  padding:1px;
+  padding-left:50px;
+  padding-right:375px;
   border:none;
   border-radius:15px;
-  z-index:2;
   font-size:40px;
   gap:500px;
+}
+
+.bubble2 {
+  position:absolute;
+  left:500px;
+  bottom:400px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:50px;
+  padding-right:85px;
+  border:none;
+  border-radius:15px;
+  font-size:40px;
+  gap:500px;
+}
+
+.Bubble3 {
+  position:absolute;
+  left:500px;
+  bottom:300px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:50px;
+  padding-right:280px;
+  border:none;
+  border-radius:15px;
+  font-size:40px;
+  gap:500px;
+}
+
+.Bubble {
+  position:absolute;
+  left:500px;
+  bottom:200px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:50px;
+  padding-right:50px;
+  border:none;
+  border-radius:15px;
+  font-size:40px;
+  gap:500px;
+}
+
+.pie {
+position:absolute;
+left:1500px;
+bottom:500px;
+width:500px;
+height:500px;
 }
