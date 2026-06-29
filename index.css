@@ -1,9 +1,9 @@
-body {
-  background-color: lightblue;
+body { /*background color*/
+  background-color: #5ce1e6;
   margin:0px;
 }
 
-.Top {
+.Top { /*the line at the top*/
   background-color:#00747a;
   Padding-top:10px;
   Padding-right:10000px;
@@ -19,7 +19,7 @@ body {
   z-index: 1;
 }
 
-.Bottom {
+.Bottom { /*the line at the bottom*/
   background-color:#00747a;
   Padding-top:10px;
   Padding-right:10000px;
@@ -31,12 +31,12 @@ body {
   height: 30px;
   position:absolute;
   left:0px;
-  bottom:0;
+  bottom:0px;
   z-index: 1;
 }
 
 
-.button {
+.button { /*groups the nav buttons*/
   margin-left:50px;
   display: flex;
   justify-content: flex-start;
@@ -47,7 +47,7 @@ body {
 
 
 
-.Bubble2 {
+.Bubble2 { /*how to nav buttons look*/
   Background-color:#0cc0df;
   color:black;
   font-size:15px;
@@ -61,7 +61,7 @@ body {
 
 
 
-h1 {
+h1 {/* maine heading*/
   font-size:40px;
   position:absolute;
   left:700px;
@@ -78,11 +78,11 @@ h1 {
 
 
 
-
+ /*all the points*/
 .Bubble1 {
   position:absolute;
-  left:500px;
-  bottom:500px;
+  left:400px;
+  bottom:600px;
   Background-color:#00747a;
   color:white;
   padding-left:50px;
@@ -95,8 +95,8 @@ h1 {
 
 .bubble2 {
   position:absolute;
-  left:500px;
-  bottom:400px;
+  left:400px;
+  bottom:450px;
   Background-color:#00747a;
   color:white;
   padding-left:50px;
@@ -109,8 +109,8 @@ h1 {
 
 .Bubble3 {
   position:absolute;
-  left:500px;
-  bottom:300px;
+  left:400px;
+  bottom:310px;
   Background-color:#00747a;
   color:white;
   padding-left:50px;
@@ -123,8 +123,8 @@ h1 {
 
 .Bubble {
   position:absolute;
-  left:500px;
-  bottom:200px;
+  left:400px;
+  bottom:150px;
   Background-color:#00747a;
   color:white;
   padding-left:50px;
@@ -134,11 +134,78 @@ h1 {
   font-size:40px;
   gap:500px;
 }
-
+/*images(placement and style)*/
 .pie {
 position:absolute;
-left:1500px;
-bottom:500px;
-width:500px;
-height:500px;
+left:1100px;
+bottom:100px;
+width:600px;
+height:600px;
+border:5px solid #00747a;
 }
+
+.rat {
+position:absolute;
+left:200px;
+bottom:550px;
+width:150px;
+height:150px;
+border:5px solid #00747a;
+}
+
+.room{
+position:absolute;
+left:200px;
+bottom:400px;
+width:150px;
+height:150px;
+border:5px solid #00747a;
+}
+
+.Question{
+position:absolute;
+left:200px;
+bottom:250px;
+width:150px;
+height:150px;
+border:5px solid #00747a;
+}
+
+.nopest{
+position:absolute;
+left:200px;
+bottom:100px;
+width:150px;
+height:150px;
+border:5px solid #00747a;
+}
+
+/*footer*/
+.footer{
+  position:absolute;
+  left:0px;
+  bottom:40px;
+  color:white;
+  z-index:2;
+  font-size:20px;
+}
+
+.footer1{
+  position:absolute;
+  left:200px;
+  bottom:40px;
+  color:white;
+  z-index:2;
+  font-size:20px;
+}
+
+.footer2{
+  position:absolute;
+  left:800px;
+  bottom:40px;
+  color:white;
+  z-index:2;
+  font-size:20px;
+}
+
+
