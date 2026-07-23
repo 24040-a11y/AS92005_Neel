@@ -283,7 +283,7 @@ border:5px solid #00747a;
   position:absolute;
   left:60px;
   bottom:65px;
-  z-index: 1;
+  z-index:1;
 }
 
 .inside{
@@ -294,7 +294,7 @@ border:5px solid #00747a;
   position:absolute;
   left:130px;
   bottom:65px;
-  z-index: 2;
+  z-index: 1;
 }
 
 .block{
@@ -305,6 +305,119 @@ border:5px solid #00747a;
   position:absolute;
   left:650px;
   bottom:260px;
-  z-index: 3;
+  z-index: 2;
 
+}
+
+
+
+
+
+.ants2{
+  position:absolute;
+  left:300px;
+  bottom:700px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:70px;
+  padding-right:70px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
+}
+
+
+.cockroaches2{
+  position:absolute;
+  left:300px;
+  bottom:550px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:30px;
+  padding-right:30px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
+}
+
+.mice2{
+  position:absolute;
+  left:300px;
+  bottom:380px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:70px;
+  padding-right:70px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
+}
+
+
+.rats2{
+  position:absolute;
+  left:300px;
+  bottom:200px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:70px;
+  padding-right:70px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
+}
+
+
+.spider{
+  position:absolute;
+  left:1300px;
+  bottom:700px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:70px;
+  padding-right:70px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
+}
+
+
+.flies{
+  position:absolute;
+  left:1300px;
+  bottom:550px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:80px;
+  padding-right:80px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
+}
+
+.bedbugs{
+  position:absolute;
+  left:1300px;
+  bottom:380px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:70px;
+  padding-right:70px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
+}
+
+
+.mosquitos{
+  position:absolute;
+  left:1300px;
+  bottom:200px;
+  Background-color:#00747a;
+  color:white;
+  padding-left:60px;
+  padding-right:60px;
+  border:none;
+  border-radius:15px;
+  font-size:30px;
 }
