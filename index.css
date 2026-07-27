@@ -23,6 +23,7 @@ body { /*background color*/
 .footer{
   position:absolute;
   left:0px;
+  right:;
   bottom:20px;
   color:white;
   z-index:2;
@@ -315,7 +316,8 @@ border:5px solid #00747a;
 
 .infested{
   position:absolute;
-  left:300px;
+  left:250px;
+  right:1000px;
   bottom:600px;
   Background-color:#00747a;
   color:white;
@@ -327,9 +329,24 @@ border:5px solid #00747a;
   z-index:3;
 }
 
+.Title3{
+  position:absolute;
+  left:550px;
+  bottom:725px;
+  Background-color:#00747a;
+  color:white;
+  padding-right:350px;
+  padding-left:350px;
+  padding-bottom:10px;
+  padding-top:10px;
+  font-size:35px;
+  z-index:3;
+}
+
+
 .harmful{
   position:absolute;
-  left:900px;
+  left:990px;
   bottom:600px;
   Background-color:#00747a;
   color:white;
@@ -343,7 +360,8 @@ border:5px solid #00747a;
 
 .priority{
   position:absolute;
-  left:300px;
+  left:250px;
+  right:1000px;
   bottom:300px;
   Background-color:#00747a;
   color:white;
@@ -357,8 +375,8 @@ border:5px solid #00747a;
 
 .invasive{
   position:absolute;
-  left:900px;
-  bottom:300px;
+  left:990px;
+  bottom:330px;
   Background-color:#00747a;
   color:white;
   padding-left:70px;
@@ -373,9 +391,10 @@ border:5px solid #00747a;
 
 .Ainfested{
   position:absolute;
-  left:900px;
-  bottom:300px;
-  Background-color:#00747a;
+  left:290px;
+  right:1080px;
+  bottom:400px;
+  Background-color:#ffde59;
   color:white;
   padding-left:70px;
   padding-right:70px;
@@ -387,9 +406,10 @@ border:5px solid #00747a;
 
 .Aharmful{
   position:absolute;
-  left:900px;
-  bottom:300px;
-  Background-color:#00747a;
+  left:990px;
+  right:350px;
+  bottom:368px;
+  Background-color:#ffde59;
   color:white;
   padding-left:70px;
   padding-right:70px;
@@ -401,9 +421,10 @@ border:5px solid #00747a;
 
 .Apriority{
   position:absolute;
-  left:900px;
-  bottom:300px;
-  Background-color:#00747a;
+  left:250px;
+  right:1000px;
+  bottom:100px;
+  Background-color:#ffde59;
   color:white;
   padding-left:70px;
   padding-right:70px;
@@ -415,9 +436,10 @@ border:5px solid #00747a;
 
 .Ainvasive{
   position:absolute;
-  left:900px;
-  bottom:300px;
-  Background-color:#00747a;
+  left:990px;
+  right:350px;
+  bottom:165px;
+  Background-color:#ffde59;
   color:white;
   padding-left:70px;
   padding-right:70px;
@@ -427,6 +449,16 @@ border:5px solid #00747a;
   z-index:3;
 }
 
+
+
+.spiders{
+  width:50px;
+  length:50px;
+  background-image:url("https://banner2.cleanpng.com/20180205/owe/av28msdfj.webp");
+  background-repeat:no-repeat;
+  z-index:3;
+  background-size:contain;
+}
 
 /*----------------------Page:GETRIDOFTHEM--------------------------*/
 .ants2{
