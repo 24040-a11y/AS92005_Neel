@@ -5,8 +5,8 @@ body { /*background color*/
 
 .Top { /*the line at the top*/
   background-color:#00747a;
-  Padding-top:10px;
-  Padding-right:10000px;
+  Padding-top:20px;
+  Padding-right:1910px;
   Padding-left:10px;
   Padding-bottom:25px;
   display: flex;
@@ -15,7 +15,7 @@ body { /*background color*/
   height: 30px;
   position:absolute;
   left:0px;
-  bottom:830px;
+  bottom:840px;
   z-index: 1;
 }
 
@@ -23,7 +23,6 @@ body { /*background color*/
 .footer{
   position:absolute;
   left:0px;
-  right:;
   bottom:20px;
   color:white;
   z-index:2;
@@ -54,7 +53,7 @@ body { /*background color*/
 .Bottom { /*the line at the bottom*/
   background-color:#00747a;
   Padding-top:10px;
-  Padding-right:10000px;
+  Padding-right:1910px;
   Padding-left:10px;
   Padding-bottom:25px;
   display: flex;
@@ -91,7 +90,7 @@ body { /*background color*/
   font-size:20px;
 }
 
-Bubble2:hover {
+.Bubble2:hover {
   background-color:white;
 }
 
@@ -408,7 +407,7 @@ border:5px solid #00747a;
   left:290px;
   right:1080px;
   bottom:400px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
@@ -424,7 +423,7 @@ border:5px solid #00747a;
   left:990px;
   right:350px;
   bottom:368px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
@@ -440,11 +439,11 @@ border:5px solid #00747a;
   left:250px;
   right:1000px;
   bottom:100px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
-  padding-right:70px;
+  padding-right:70px;c
   border:none;
   border-radius:15px;
   font-size:30px;
@@ -456,7 +455,7 @@ border:5px solid #00747a;
   left:990px;
   right:350px;
   bottom:165px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
@@ -593,7 +592,7 @@ border:5px solid #00747a;
   left:300px;
   right:1000px;
   bottom:620px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding:15px;
@@ -608,7 +607,7 @@ border:5px solid #00747a;
   left:300px;
   right:1000px;
   bottom:500px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:30px;
@@ -623,7 +622,7 @@ border:5px solid #00747a;
   left:300px;
   bottom:330px;
   right:1000px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
@@ -639,7 +638,7 @@ border:5px solid #00747a;
   left:300px;
   right:1000px;
   bottom:150px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
@@ -654,7 +653,7 @@ border:5px solid #00747a;
   position:absolute;
   left:1300px;
   bottom:650px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
@@ -669,7 +668,7 @@ border:5px solid #00747a;
   position:absolute;
   left:1300px;
   bottom:500px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:80px;
@@ -683,7 +682,7 @@ border:5px solid #00747a;
   position:absolute;
   left:1300px;
   bottom:330px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:70px;
@@ -698,7 +697,7 @@ border:5px solid #00747a;
   position:absolute;
   left:1300px;
   bottom:150px;
-  Background-color:#ffde59;
+  Background-color:#f7cc23;
   box-shadow:10px 10px #bda442;
   color:white;
   padding-left:60px;
